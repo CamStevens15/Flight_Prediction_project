@@ -74,7 +74,7 @@ In addition, there were other features we didnt use due to it not being availble
 
 # Modelling
 
-Our next step after cleaning the data through a thorough EDA process done in two stages(What are the two stages?**), is modelling.
+Our next step after cleaning the data through a thorough EDA process done in two stages, is modelling.
 
 This dataset consists of 28 features, out of which there are a series of them (listed above) that can affect the predictive model in a positive way in terms of predictions and therefore accuracy. However, when you use them, you are making the assumption that you are most probably already sitting in the plane, or in the best case scenario, your flight status on the departure boards has been changed to: "delayed".
 
